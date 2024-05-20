@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f16a7d-6530-40b9-a106-98c8d916bbb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework_advanced_flow_control/homework_advanced_flow_control.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework_java_decision_loops/homework_java_decision_loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework_java_operators/homework_java_operators.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Tema22_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Tema24_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Tema28_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Tema30_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Tema32_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-HW-by-DISCORD/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -33,10 +39,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ek572QrdfaUmkOf6DPVpFkorQE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,14 +53,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Tema22_23.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/for IT SCHOOL/HomeWork-JavaDicord/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
